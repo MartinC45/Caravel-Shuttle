@@ -1,7 +1,9 @@
 # Caravel Project - Accelerators
 
-
-
+**TODO:**  
+* read up on docs 
+* try out a simple example
+* collect ideas for accelerators
 
 
 ## General Info & Links
